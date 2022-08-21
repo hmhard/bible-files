@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vernacularParms>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularFullName">Doomettaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularFullName">Kessaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularFullName">Wogaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularFullName">Qoodaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularFullName">Zaarettido Wogaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularFullName">Yaasu Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularFullName">Daannatu Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularFullName">Sameela Maxaafaa Koiruwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularFullName">Sameela Maxaafaa Naa77anttuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularFullName">Kawotu Maxaafaa Koiruwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularFullName">Kawotu Maxaafaa Naa77anttuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularFullName">Hanidabaa Odiya Koiro Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularFullName">Hanidabaa Odiya Naa77antto Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularFullName">Izira Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularFullName">Nahimiyaa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularFullName">Asttiri Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularFullName">Iyyooba Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularFullName">Leemiso Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularFullName">Eranchchaa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularFullName">Isiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularFullName">Ermmaasa Hiraagaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularFullName">Ermmaasa Zilaassaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularFullName">Hananabaa Yootiya Hizqqeela Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularFullName">Daaneela Hiraagaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularFullName">Hananabaa Yootiya Hoose7a Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularFullName">Hananabaa Yootiya Yuu7eela Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularFullName">Hananabaa Yootiya Amoxa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularFullName">Hananabaa Yootiya Abddiyyu Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularFullName">Hananabaa Yootiya Yoonaasa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularFullName">Hananabaa Yootiya Mikiyaasa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularFullName">Hananabaa Yootiya Naahooma Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularFullName">Hananabaa Yootiya Imbbaaqooma Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularFullName">Hananabaa Yootiya Hagge Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularFullName">Hananabaa Yootiya Milkkiyaasa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularFullName">Maatiyoosa Wonggeliyaa Mishiraachchuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularFullName">Marqqoosa Wonggeliyaa Mishiraachchuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularFullName">Luqaasa Wonggeliyaa Mishiraachchuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularFullName">Yohaannisa Wonggeliyaa Mishiraachchuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularFullName">Yesuusi Kiittidoogeetu Oosuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularFullName">PHauloosi Qoronttoosa Asaassi Xaafido Koiro Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularFullName">PHauloosi Qoronttoosa Asaassi Xaafido Naa77antto Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularFullName">PHauloosi Galaatiyaa Asaassi Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularFullName">PHauloosi Efisoona Asaassi Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularFullName">PHauloosi Piliphphisiyuusa Asaassi Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularFullName">PHauloosi Qolasiyaasa Asaassi Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularFullName">PHauloosi Tasalonqqe Asaassi Xaafido Koiro Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularFullName">PHauloosi Tasalonqqe Asaassi Xaafido Naa77antto Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularFullName">PHauloosi Ximootiyoosayyo Xaafido Koiro Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularFullName">PHauloosi Ximootiyoosayyo Xaafido Naa77antto Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularFullName">PHauloosi Pilimoonayyo Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularFullName">PHauloosi Ibraawe Asaassi Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularFullName">Yaaqoobi Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularFullName">PHeexiroosi Xaafido Koiro Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularFullName">PHeexiroosi Xaafido Naa77antto Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularFullName">Yohaannisi Xaafido Koiro Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularFullName">Yohaannisi Xaafido Naa77antto Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularFullName">Yohaannisi Xaafido Heezzantto Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularFullName">Yihudai Xaafido Kiitaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularAbbreviatedName">Doomettaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularAbbreviatedName">Kessaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularAbbreviatedName">Wogaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularAbbreviatedName">Qoodaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularAbbreviatedName">Zaarettido Wogaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularAbbreviatedName">Yaasu</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularAbbreviatedName">Daannatu Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularAbbreviatedName">Sameela Maxaafaa Koiruwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularAbbreviatedName">Sameela Maxaafaa Naa77anttuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularAbbreviatedName">Kawotu Maxaafaa Koiruwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularAbbreviatedName">Kawotu Maxaafaa Naa77anttuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularAbbreviatedName">Hanidabaa Odiya Koiro Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularAbbreviatedName">Hanidabaa Odiya Naa77antto Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularAbbreviatedName">Izira Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularAbbreviatedName">Nahimiyaa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularAbbreviatedName">Asttiri Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularAbbreviatedName">Iyyooba Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularAbbreviatedName">Leemiso Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularAbbreviatedName">Eranchchaa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularAbbreviatedName">Isiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularAbbreviatedName">Ermmaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularAbbreviatedName">Ermmaasa Zilaassaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularAbbreviatedName">Hizqqeela</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularAbbreviatedName">Daaneela</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularAbbreviatedName">Hoose7a</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularAbbreviatedName">Yuu7eela</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularAbbreviatedName">Amoxa</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularAbbreviatedName">Abddiyyu</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularAbbreviatedName">Yoonaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularAbbreviatedName">Mikiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularAbbreviatedName">Naahooma</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularAbbreviatedName">Imbbaaqooma</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularAbbreviatedName">Hagge</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularAbbreviatedName">Milkkiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularAbbreviatedName">Maatiyoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularAbbreviatedName">Marqqoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularAbbreviatedName">Luqaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularAbbreviatedName">Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularAbbreviatedName">Yesuusi Kiittidoogeetu Oosuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularAbbreviatedName">Koiro Qoronttoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularAbbreviatedName">Naa77antto Qoronttoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularAbbreviatedName">Galaatiyaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularAbbreviatedName">Efisoona</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularAbbreviatedName">Piliphphisiyuusa</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularAbbreviatedName">Qolasiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularAbbreviatedName">Koiro Tasalonqqe</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularAbbreviatedName">Naa77antto Tasalonqqe</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularAbbreviatedName">Koiro Ximootiyoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularAbbreviatedName">Naa77antto Ximootiyoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularAbbreviatedName">Pilimoona</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularAbbreviatedName">Ibraawe</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularAbbreviatedName">Yaaqooba</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularAbbreviatedName">Koiro PHeexiroosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularAbbreviatedName">Naa77antto PHeexiroosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularAbbreviatedName">Koiro Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularAbbreviatedName">Naa77antto Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularAbbreviatedName">Heezzantto Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularAbbreviatedName">Yihudaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularBookAbbreviation">Doomettaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularBookAbbreviation">Kessaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularBookAbbreviation">Wogaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularBookAbbreviation">Qoodaabaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularBookAbbreviation">Zaarettido Wogaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularBookAbbreviation">Yaasu</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularBookAbbreviation">Daannatu Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularBookAbbreviation">Sameela Maxaafaa Koiruwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularBookAbbreviation">Sameela Maxaafaa Naa77anttuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularBookAbbreviation">Kawotu Maxaafaa Koiruwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularBookAbbreviation">Kawotu Maxaafaa Naa77anttuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularBookAbbreviation">Hanidabaa Odiya Koiro Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularBookAbbreviation">Hanidabaa Odiya Naa77antto Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularBookAbbreviation">Izira Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularBookAbbreviation">Nahimiyaa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularBookAbbreviation">Asttiri Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularBookAbbreviation">Iyyooba Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularBookAbbreviation">Leemiso Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularBookAbbreviation">Eranchchaa Maxaafaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularBookAbbreviation">Isiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularBookAbbreviation">Ermmaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularBookAbbreviation">Ermmaasa Zilaassaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularBookAbbreviation">Hizqqeela</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularBookAbbreviation">Daaneela</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularBookAbbreviation">Hoose7a</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularBookAbbreviation">Yuu7eela</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularBookAbbreviation">Amoxa</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularBookAbbreviation">Abddiyyu</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularBookAbbreviation">Yoonaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularBookAbbreviation">Mikiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularBookAbbreviation">Naahooma</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularBookAbbreviation">Imbbaaqooma</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularBookAbbreviation">Hagge</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularBookAbbreviation">Milkkiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularBookAbbreviation">Maatiyoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularBookAbbreviation">Marqqoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularBookAbbreviation">Luqaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularBookAbbreviation">Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularBookAbbreviation">Yesuusi Kiittidoogeetu Oosuwaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularBookAbbreviation">Koiro Qoronttoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularBookAbbreviation">Naa77antto Qoronttoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularBookAbbreviation">Galaatiyaa</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularBookAbbreviation">Efisoona</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularBookAbbreviation">Piliphphisiyuusa</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularBookAbbreviation">Qolasiyaasa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularBookAbbreviation">Koiro Tasalonqqe</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularBookAbbreviation">Naa77antto Tasalonqqe</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularBookAbbreviation">Koiro Ximootiyoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularBookAbbreviation">Naa77antto Ximootiyoosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularBookAbbreviation">Pilimoona</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularBookAbbreviation">Ibraawe</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularBookAbbreviation">Yaaqooba</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularBookAbbreviation">Koiro PHeexiroosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularBookAbbreviation">Naa77antto PHeexiroosa</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularBookAbbreviation">Koiro Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularBookAbbreviation">Naa77antto Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularBookAbbreviation">Heezzantto Yohaannisa</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularBookAbbreviation">Yihudaa</scriptureBook>
+  <dcMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator>SIM</dc:creator>
+    <dc:contributor />
+    <dc:title>Wolaytta Bible</dc:title>
+    <dc:description>Portions of the Holy Bible in the Wolaytta language of Ethiopia</dc:description>
+    <dc:date>2014-10-15</dc:date>
+    <dc:format>digital</dc:format>
+    <dc:language>wal</dc:language>
+    <dc:publisher>Digital Bible Society</dc:publisher>
+    <dc:rights>Copyright © 2004 SIM
+
+
+This work is made available to you under the terms of the Creative Commons Attribution-Noncommercial-No Derivative Works license at http://creativecommons.org/licenses/by-nc-nd/4.0/.
+</dc:rights>
+    <dc:identifier />
+    <dc:type />
+  </dcMeta>
+  <numberSystem>Default</numberSystem>
+  <chapterAndVerseSeparator>:</chapterAndVerseSeparator>
+  <rangeSeparator>-</rangeSeparator>
+  <multiRefSameChapterSeparator>,</multiRefSameChapterSeparator>
+  <multiRefDifferentChapterSeparator>—</multiRefDifferentChapterSeparator>
+  <verseNumberLocation>Begin</verseNumberLocation>
+  <footnoteMarkerStyle>Circulate</footnoteMarkerStyle>
+  <footnoteMarkerResetAt>Book</footnoteMarkerResetAt>
+  <footnoteMarkers>* † ‡ §</footnoteMarkers>
+  <BookSourceForMarkerXt>Abbreviation</BookSourceForMarkerXt>
+  <BookSourceForMarkerR>ShortName</BookSourceForMarkerR>
+  <iso>wal</iso>
+  <isoVariant />
+  <langName>Wolaytta</langName>
+  <textDir>ltr</textDir>
+  <hasNotes>True</hasNotes>
+  <coverTitle>Wolaytta Bible</coverTitle>
+</vernacularParms>
